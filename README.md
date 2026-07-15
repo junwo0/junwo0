@@ -29,11 +29,11 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junwo0&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junwo0&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### 💼 Highlights
+- 🏭 **제조업 사내 시스템(ERP · WMS · MES)** 개발·운영 — 현장 도메인 실무 경험
+- 🗄️ **MSSQL 기반 백엔드** — 대용량 데이터·시스템 간 인터페이스 처리
+- 🤖 **업무 자동화**(배치·스크립트)로 반복업무 제거
+- 🔗 SI · 사내 IT · 시스템/네트워크(SE) 전반 경험
 
 ---
 
